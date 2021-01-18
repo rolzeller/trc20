@@ -1,6 +1,6 @@
 {
   "name": "HypeList",
-  "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/logos/hype_logo_list.png",
+  "logoURI": "https://hypeprofit.biz/Hlogo.png",
   "timestamp": 1610976362000,
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "HYPE Token",
       "symbol": "HYPE",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/hype.json"
+      "logoURI": "https://hypeprofit.biz/Hlogo.png"
     },
     {
       "chainId": 1,
@@ -17,7 +17,7 @@
       "name": "HYPE Gold Token",
       "symbol": "HYPEGOLD",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/hype_gold_logo.png"
+      "logoURI": "https://hypeprofit.biz/HypeGold.png"
     }
   ],
   "version": {
