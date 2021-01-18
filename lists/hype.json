@@ -1,6 +1,6 @@
 {
-  "name": "TokenListExample",
-  "logoURI": "https://coin.top/production/logo/usdj.png",
+  "name": "HypeList",
+  "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_logo_list.png",
   "timestamp": 1610339529000,
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "HYPE Token",
       "symbol": "HYPE",
       "decimals": 6,
-      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+      "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_logo.png"
     },
     {
       "chainId": 1,
@@ -17,7 +17,7 @@
       "name": "HYPE Gold Token",
       "symbol": "HYPEGOLD",
       "decimals": 6,
-      "logoURI": "https://coin.top/production/logo/usdj.png"
+      "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_gold_logo.png"
     }
   ],
   "version": {
