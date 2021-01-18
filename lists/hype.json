@@ -1,0 +1,28 @@
+{
+  "name": "TokenListExample",
+  "logoURI": "https://coin.top/production/logo/usdj.png",
+  "timestamp": 1610339529000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TASrsr1Qsz8eUSajiTxXSLo44uAFfvZVUG",
+      "name": "HYPE Token",
+      "symbol": "HYPE",
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+    },
+    {
+      "chainId": 1,
+      "address": "TYPkXfKaGBJDjjs1pf9Xum6TwLEVxj77S3",
+      "name": "HYPE Gold Token",
+      "symbol": "HYPEGOLD",
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/usdj.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
