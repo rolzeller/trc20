@@ -1,6 +1,6 @@
 {
   "name": "HypeList",
-  "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_logo_list.png",
+  "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/hype_logo_list.png",
   "timestamp": 1610976362000,
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "HYPE Token",
       "symbol": "HYPE",
       "decimals": 6,
-      "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/hype.json"
     },
     {
       "chainId": 1,
@@ -17,7 +17,7 @@
       "name": "HYPE Gold Token",
       "symbol": "HYPEGOLD",
       "decimals": 6,
-      "logoURI": "https://github.com/rolzeller/trc20/blob/master/lists/logos/hype_gold_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/rolzeller/trc20/master/lists/hype_gold_logo.png"
     }
   ],
   "version": {
